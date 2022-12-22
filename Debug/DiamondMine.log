@@ -1,16 +1,16 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Timber.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   DiamondMine.cpp
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(292,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(295,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(327,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(330,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(363,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(366,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(458,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(479,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(483,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(484,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(505,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(509,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\DiamondMine.cpp(534,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  DiamondMine.vcxproj -> C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\Debug\DiamondMine.exe
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(297,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(300,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(332,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(335,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(368,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(371,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(463,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(484,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(488,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(489,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(510,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(514,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\DiamondMine.cpp(539,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DiamondMine.vcxproj -> C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\Debug\DiamondMine.exe

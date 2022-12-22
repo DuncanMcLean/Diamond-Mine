@@ -1,1 +1,2 @@
 C:\Users\dunca\Desktop\publicRepos\DiamondMine\DiamondMine\Debug\DiamondMine.exe
+C:\Users\dunca\Desktop\publicRepos\Diamond-Mine\Debug\DiamondMine.exe
