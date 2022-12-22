@@ -1,0 +1,15 @@
+﻿  Timber.cpp
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(292,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(295,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(327,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(330,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(363,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(366,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(458,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(479,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(483,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(484,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(505,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(509,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Timber\Timber.cpp(534,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Debug\Timber.exe
